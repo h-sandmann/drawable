@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="logo.svg">
+   sodipodi:docname="logo_clean.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -27,7 +27,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.08"
      inkscape:cx="174.29342"
-     inkscape:cy="162.11428"
+     inkscape:cy="273.22539"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -60,39 +60,28 @@
      id="layer1"
      transform="translate(-59.05081,-47.1273)">
     <g
-       id="g27"
-       transform="translate(1.2890522,-24.552012)">
-      <text
-         id="text3701"
-         y="163.21106"
-         x="57.546024"
-         style="font-style:normal;font-weight:normal;font-size:19.76433372px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.49410832"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Heiti TC';-inkscape-font-specification:'Heiti TC';stroke-width:0.49410832"
-           y="163.21106"
-           x="57.546024"
-           id="tspan3699"
-           sodipodi:role="line">H-Sandmann</tspan></text>
+       id="g45"
+       transform="translate(-6.7932771e-7,9.2603205)">
       <text
          id="text3705"
-         y="169.69847"
-         x="58.416115"
+         y="126.62582"
+         x="59.715527"
          style="font-style:normal;font-weight:normal;font-size:10.23508167px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25587702"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Serto Mardin';-inkscape-font-specification:'Serto Mardin';stroke-width:0.25587702"
-           y="169.69847"
-           x="58.416115"
+           y="126.62582"
+           x="59.715527"
            id="tspan3703"
            sodipodi:role="line">Computation Consulting</tspan></text>
       <text
          id="text3713"
-         y="141.58516"
-         x="52.277798"
+         y="117.03315"
+         x="53.394814"
          style="font-style:normal;font-weight:normal;font-size:62.55702209px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5639255"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Skia;-inkscape-font-specification:Skia;stroke-width:1.5639255"
-           y="141.58516"
-           x="52.277798"
+           y="117.03315"
+           x="53.394814"
            id="tspan3711"
            sodipodi:role="line"><tspan
              id="tspan3719"
