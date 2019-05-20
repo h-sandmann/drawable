@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="122.4219mm"
+   height="75.895981mm"
+   viewBox="0 0 122.4219 75.895981"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.08"
+     inkscape:cx="284.49519"
+     inkscape:cy="162.11428"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1215"
+     inkscape:window-height="798"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       position="-0.0095299683,81.404315"
+       orientation="1,0"
+       id="guide3707"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="122.48275,36.817124"
+       orientation="1,0"
+       id="guide3709"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-59.05081,-96.231319)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:19.76433372px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.49410832"
+       x="57.546024"
+       y="163.21106"
+       id="text3701"><tspan
+         sodipodi:role="line"
+         id="tspan3699"
+         x="57.546024"
+         y="163.21106"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Heiti TC';-inkscape-font-specification:'Heiti TC';stroke-width:0.49410832">H-Sandmann</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.23508167px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25587702"
+       x="58.416115"
+       y="169.69847"
+       id="text3705"><tspan
+         sodipodi:role="line"
+         id="tspan3703"
+         x="58.416115"
+         y="169.69847"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Serto Mardin';-inkscape-font-specification:'Serto Mardin';stroke-width:0.25587702">Computation Consulting</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:62.55702209px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5639255"
+       x="52.277798"
+       y="141.58516"
+       id="text3713"><tspan
+         sodipodi:role="line"
+         id="tspan3711"
+         x="52.277798"
+         y="141.58516"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Skia;-inkscape-font-specification:Skia;stroke-width:1.5639255"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Skia;-inkscape-font-specification:Skia;fill:#0000ff;stroke-width:1.5639255"
+           id="tspan3719">HS</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Skia;-inkscape-font-specification:Skia;fill:#666666;stroke-width:1.5639255"
+           id="tspan3717">c</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.6620636px;font-family:Skia;-inkscape-font-specification:Skia;baseline-shift:super;fill:#666666;stroke-width:1.5639255"
+           id="tspan3715">2</tspan></tspan></text>
+  </g>
+</svg>
